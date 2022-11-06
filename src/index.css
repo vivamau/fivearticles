@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Domine&display=swap");
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+body {
+  font-family: Domine, serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #222;
+  color: #fdfffc;
+}
+h2 {
+  font-size: 3em;
+  font-weight: bold;
+  font-family: Domine;
+  line-height: 1.1em;
+  padding-bottom: 10px;
+  text-align: center;
+}
+a,
+a:hover {
+  color: #fdfffc;
+  text-decoration: underline;
+  text-underline-position: under;
+}
+a:hover {
+  text-decoration: none;
+}
+ol {
+  margin-left: 30px;
+}
+li {
+  padding: 0.3em;
+  font-size: 1.2em;
+}
+article {
+  padding: 0 10px;
+}
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.issue {
+  text-align: center;
+  font-size: 300px;
+  line-height: 1em;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#ff0052),
+    to(#8e2b88)
+  );
+  background: -o-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#ff0052),
+    to(#8e2b88)
+  );
+  -webkit-background-clip: text;
+}
+
+.homepage {
+  text-align: center;
+  margin-top: 3em;
+  font-size: 1.5em;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#ff0052),
+    to(#8e2b88)
+  );
+  background: -o-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#ff0052),
+    to(#8e2b88)
+  );
+  -webkit-background-clip: text;
+}
