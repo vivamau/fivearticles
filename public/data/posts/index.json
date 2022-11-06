@@ -51,7 +51,14 @@
   {
     "issue": 36,
     "type": "five articles",
-    "title": "about Data and ML",
+    "title": "about cheat-sheets",
+    "date": "2022-08-30",
+    "tags": "cheatsheet,python,designpatterns,linux,data"
+  },
+  {
+    "issue": 37,
+    "type": "five articles",
+    "title": "about dasdasa",
     "date": "2022-08-30",
     "tags": "cheatsheet,python,designpatterns,linux,data"
   }

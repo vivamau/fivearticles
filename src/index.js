@@ -4,7 +4,7 @@ import "./index.css";
 
 import Homepage from "./views/Homepage/Homepage";
 import Day from "./views/Day/Day";
-import { createBrowserRouter, RouterProvider, Route } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import reportWebVitals from "./reportWebVitals";
 const router = createBrowserRouter([
   {

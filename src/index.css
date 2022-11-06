@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Domine&display=swap");
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+html,
 body {
   font-family: Domine, serif;
   display: flex;
@@ -70,6 +71,7 @@ article {
 .homepage {
   text-align: center;
   margin-top: 3em;
+  margin-bottom: 2em;
   font-size: 1.5em;
   -webkit-text-fill-color: transparent;
   background: -webkit-gradient(
