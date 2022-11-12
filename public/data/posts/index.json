@@ -1,5 +1,40 @@
 [
   {
+    "issue": 22,
+    "type": "five articles",
+    "title": "about everything and more part 1",
+    "date": "2022-05-02",
+    "tags": "architecture,API,database,cloud"
+  },
+  {
+    "issue": 23,
+    "type": "five articles",
+    "title": "about everything and more part 2",
+    "date": "2022-05-07",
+    "tags": "architecture,API,database,cloud"
+  },
+  {
+    "issue": 24,
+    "type": "five articles",
+    "title": "about everything and more part 3",
+    "date": "2022-05-14",
+    "tags": "architecture,ML,machine-learning,agile"
+  },
+  {
+    "issue": 25,
+    "type": "five articles",
+    "title": "about choreography vs orchestration",
+    "date": "2022-05-22",
+    "tags": "choreography,orchestration,microservices,youtube,video"
+  },
+  {
+    "issue": 26,
+    "type": "five articles",
+    "title": "Airbnb",
+    "date": "2022-05-29",
+    "tags": "microservices,airbnb"
+  },
+  {
     "issue": 27,
     "type": "five articles",
     "title": "(it's all) about development",
