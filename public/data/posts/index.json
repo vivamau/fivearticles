@@ -1,5 +1,19 @@
 [
   {
+    "issue": 27,
+    "type": "five articles",
+    "title": "(it's all) about development",
+    "date": "2022-06-05",
+    "tags": "Security,web,javascript,cloud,usecase"
+  },
+  {
+    "issue": 28,
+    "type": "five articles",
+    "title": "about gurus and sherpas",
+    "date": "2022-06-12",
+    "tags": "css,web"
+  },
+  {
     "issue": 29,
     "type": "five articles",
     "title": "about coding games",
