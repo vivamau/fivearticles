@@ -1,8 +1,120 @@
 [
   {
+    "issue": 1,
+    "type": "five articles",
+    "title": "about everything and more, part 1",
+    "date": "2021-10-23",
+    "tags": "stats"
+  },
+  {
+    "issue": 2,
+    "type": "five articles",
+    "title": "about everything and more, part 2",
+    "date": "2021-11-20",
+    "tags": "git,IDE,VSCode,mobile-design,architecture,Redis"
+  },
+  {
+    "issue": 3,
+    "type": "five articles",
+    "title": "about state of IT 2021",
+    "date": "2021-11-20",
+    "tags": "stats"
+  },
+  {
+    "issue": 4,
+    "type": "five articles",
+    "title": "about web3",
+    "date": "2021-11-28",
+    "tags": "web3"
+  },
+  {
+    "issue": 5,
+    "type": "five articles",
+    "title": "about books, part 1",
+    "date": "2021-04-12",
+    "tags": "books,data,ML,development,Python,web-design"
+  },
+  {
+    "issue": 6,
+    "type": "five articles",
+    "title": "about everything and more, part 3",
+    "date": "2021-12-12",
+    "tags": "CD/CI,algorithms,development"
+  },
+  {
+    "issue": 7,
+    "type": "five articles",
+    "title": "about everything and more, part 4",
+    "date": "2022-01-15",
+    "tags": "architecture,javascript,API,data"
+  },
+  {
+    "issue": 8,
+    "type": "five articles",
+    "title": "about everything and more, part 5",
+    "date": "2022-01-22",
+    "tags": "ReactJS,developers"
+  },
+  {
+    "issue": 9,
+    "type": "five articles",
+    "title": "about everything and more, part 6",
+    "date": "2022-01-30",
+    "tags": "architecture,project-management,web-design,python"
+  },
+  {
+    "issue": 10,
+    "type": "five articles",
+    "title": "about everything and more, part 7",
+    "date": "2022-02-13",
+    "tags": "browser"
+  },
+  {
+    "issue": 11,
+    "type": "five articles",
+    "title": "about browsers",
+    "date": "2022-02-13",
+    "tags": "browser"
+  },
+  {
+    "issue": 12,
+    "type": "five articles",
+    "title": "about everything and more, part 8",
+    "date": "2022-02-19",
+    "tags": "microfrontends,microservices,git,CI,architecture"
+  },
+  {
+    "issue": 13,
+    "type": "five articles",
+    "title": "about everything and more, part 9",
+    "date": "2022-02-27",
+    "tags": "machine-learning"
+  },
+  {
+    "issue": 14,
+    "type": "five articles",
+    "title": "about everything and more, part 10",
+    "date": "2022-03-05",
+    "tags": "development,NFT,GraphQL"
+  },
+  {
+    "issue": 15,
+    "type": "five articles",
+    "title": "about everything and more, part 11",
+    "date": "2022-03-13",
+    "tags": "SQL,ReactJS,GraphQL,web-design"
+  },
+  {
+    "issue": 16,
+    "type": "five articles",
+    "title": "about books, part 2",
+    "date": "2022-03-20",
+    "tags": "book,maths,deep-learning"
+  },
+  {
     "issue": 17,
     "type": "five articles",
-    "title": "about everything from twitter",
+    "title": "about everything and more, part 12",
     "date": "2022-03-27",
     "tags": "semantic-web,web3,web-design,API,css,tailwind"
   },
@@ -16,7 +128,7 @@
   {
     "issue": 19,
     "type": "five articles",
-    "title": "about everything and more part 1",
+    "title": "about everything and more, part 13",
     "date": "2022-04-10",
     "tags": "security,python,data"
   },
@@ -37,21 +149,21 @@
   {
     "issue": 22,
     "type": "five articles",
-    "title": "about everything and more part 2",
+    "title": "about everything and more, part 14",
     "date": "2022-05-02",
     "tags": "architecture,API,database,cloud"
   },
   {
     "issue": 23,
     "type": "five articles",
-    "title": "about everything and more part 3",
+    "title": "about everything and more, part 15",
     "date": "2022-05-07",
     "tags": "architecture,API,database,cloud"
   },
   {
     "issue": 24,
     "type": "five articles",
-    "title": "about everything and more part 4",
+    "title": "about everything and more, part 16",
     "date": "2022-05-14",
     "tags": "architecture,ML,machine-learning,agile"
   },

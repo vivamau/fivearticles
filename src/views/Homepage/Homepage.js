@@ -7,22 +7,31 @@ const Homepage = () => {
     fetch(`/data/posts/index.json`)
       .then((response) => response.json())
       .then((data) => {
-        setData(
-          data.sort((a, b) =>
-            a.issue < b.issue ? 1 : b.issue < a.issue ? -1 : 0
-          )
+        data = data.sort((a, b) =>
+          a.issue > b.issue ? 1 : b.issue < a.issue ? -1 : 0
         );
+        setData(data);
         setLoading(false);
       });
   }, []);
+
   return loading ? (
     <div>wait...</div>
   ) : (
-    data.map((day, i) => (
-      <li>
-        <a href={"day/" + day.issue}>{day.issue}</a>
-      </li>
-    ))
+    data.map((day, i) =>
+      i % 5 === 0 ? (
+        <div className="column">
+          <p>
+            <a href={"day/" + day.issue}>{day.issue}</a>
+            <hr />
+          </p>
+        </div>
+      ) : (
+        <p>
+          <a href={"day/" + day.issue}>{day.issue}</a>
+        </p>
+      )
+    )
   );
 };
 
