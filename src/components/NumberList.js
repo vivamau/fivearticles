@@ -4,7 +4,7 @@ const NumberList = (props) => {
   let grouped = [];
   let listItems = [];
   for (let i = 0; i < days.length; i++) {
-    if (i !== 0 && i % 5 === 0) {
+    if (i !== 0 && i % 10 === 0) {
       grouped.push(listItems);
       listItems = [];
     }
