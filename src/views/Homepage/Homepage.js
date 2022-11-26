@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-
+import NumberList from "../../components/NumberList.js";
 const Homepage = () => {
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState({});
@@ -14,25 +14,30 @@ const Homepage = () => {
         setLoading(false);
       });
   }, []);
+  /*
+  function ListItem(props) {
+    const value = props.day;
+    return <p>{value}</p>;
+  }
 
-  return loading ? (
-    <div>wait...</div>
-  ) : (
-    data.map((day, i) =>
-      i % 5 === 0 ? (
-        <div className="column">
-          <p>
-            <a href={"day/" + day.issue}>{day.issue}</a>
-            <hr />
-          </p>
-        </div>
-      ) : (
-        <p>
-          <a href={"day/" + day.issue}>{day.issue}</a>
-        </p>
-      )
-    )
-  );
+  function NumberList(props) {
+    const days = props.data;
+    console.log(days);
+    var listItems = [];
+    for (let i = 0; i < days.length; i++) {
+      let day = days[i];
+      if (i !== 0 && i % 5 === 0) {
+        const items = listItems.map((day, i) => (
+          <ListItem day={day.issue} key={i} />
+        ));
+        return <div className="column">{items}</div>;
+      } else {
+        listItems.push(day);
+      }
+    }
+  }
+*/
+  return loading ? <div>wait...</div> : <NumberList data={data} />;
 };
 
 export default Homepage;

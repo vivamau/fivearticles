@@ -13,7 +13,7 @@ const NumberList = (props) => {
   }
 
   return (
-    <div className="columns">
+    <div className="columns is-mobile">
       <GroupItems items={grouped} />
     </div>
   );

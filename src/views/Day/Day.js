@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import ReactMarkdown from "react-markdown";
 import parseMD from "parse-md";
 import { useEffect, useState } from "react";
-function Day() {
+const Day = () => {
   let issue = useParams();
   const [loading, setLoading] = useState(true);
   const [DataDayContent, setDataDayContent] = useState({});
@@ -56,6 +56,6 @@ function Day() {
       </div>
     </>
   );
-}
+};
 
 export default Day;
