@@ -33,7 +33,7 @@ const Day = () => {
     <>
       <div className="columns">
         <div className="column is-half">
-          <div className="issue">{DataDayMetaData.issue}</div>
+          <div className="issue color">{DataDayMetaData.issue}</div>
           <center>{DataDayMetaData.date}</center>
         </div>
         <div className="column is-half">
@@ -47,7 +47,7 @@ const Day = () => {
       </div>
       <div className="columns">
         <div className="column is-full">
-          <div className="homepage">
+          <div className="homepage color">
             <a href={"/day/" + (parseInt(Issue) - 1)}>prev</a> |{" "}
             <a href="/">home page</a> |{" "}
             <a href={"/day/" + (parseInt(Issue) + 1)}>next</a>

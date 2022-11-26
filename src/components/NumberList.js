@@ -7,11 +7,10 @@ const NumberList = (props) => {
     if (i !== 0 && i % 5 === 0) {
       grouped.push(listItems);
       listItems = [];
-    } else {
-      listItems.push(days[i]);
     }
+    listItems.push(days[i]);
   }
-
+  grouped.push(listItems);
   return (
     <div className="columns is-mobile">
       <GroupItems items={grouped} />
