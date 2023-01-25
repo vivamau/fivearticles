@@ -19,7 +19,7 @@ const Homepage = () => {
     <div>wait...</div>
   ) : (
     <div>
-      <h2 className="color">2022</h2>
+      <h2 className="color">five articles</h2>
       <NumberList data={data} />
     </div>
   );
