@@ -29,7 +29,7 @@ const Day = () => {
         <a href="/hp">home page</a>
       </p>
     </div>
-  ) : (
+  ) : DataDayMetaData.date.length !== 0 ? (
     <>
       <div className="columns">
         <div className="column is-half">
@@ -55,6 +55,13 @@ const Day = () => {
         </div>
       </div>
     </>
+  ) : (
+    <div>
+      <p>Not a valid date (or that day we weren't around)</p>
+      <p>
+        <a href="/hp">home page</a>
+      </p>
+    </div>
   );
 };
 

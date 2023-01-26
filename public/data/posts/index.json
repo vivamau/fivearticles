@@ -221,7 +221,7 @@
     "type": "five articles",
     "title": "about writing, governance and pair programming",
     "date": "2022-07-31",
-    "tags": "governance,CSS,development,writing"
+    "tags": "governance,css,development,writing"
   },
   {
     "issue": 33,
@@ -235,7 +235,7 @@
     "type": "five articles",
     "title": "about CSS",
     "date": "2022-08-25",
-    "tags": "CSS"
+    "tags": "css"
   },
   {
     "issue": 35,
@@ -254,8 +254,43 @@
   {
     "issue": 37,
     "type": "five articles",
-    "title": "about dasdasa",
+    "title": "about everything and more, part 17",
     "date": "2022-08-30",
     "tags": "cheatsheet,python,designpatterns,linux,data"
+  },
+  {
+    "issue": 38,
+    "type": "five articles",
+    "title": "about CSS",
+    "date": "2023-01-26",
+    "tags": "css"
+  },
+  {
+    "issue": 39,
+    "type": "five articles",
+    "title": "about React",
+    "date": "",
+    "tags": "reactjs,reactnative,react,typescript"
+  },
+  {
+    "issue": 41,
+    "type": "five articles",
+    "title": "about fun",
+    "date": "",
+    "tags": "fun"
+  },
+  {
+    "issue": 47,
+    "type": "five articles",
+    "title": "about Serverless",
+    "date": "",
+    "tags": "serverless,aws"
+  },
+  {
+    "issue": 48,
+    "type": "five articles",
+    "title": "about Microservices",
+    "date": "",
+    "tags": "microservice"
   }
 ]
