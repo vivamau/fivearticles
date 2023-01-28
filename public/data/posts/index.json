@@ -254,22 +254,15 @@
   {
     "issue": 37,
     "type": "five articles",
-    "title": "about everything and more, part 17",
-    "date": "2022-08-30",
-    "tags": "cheatsheet,python,designpatterns,linux,data"
-  },
-  {
-    "issue": 38,
-    "type": "five articles",
     "title": "about CSS",
     "date": "2023-01-26",
     "tags": "css"
   },
   {
-    "issue": 39,
+    "issue": 38,
     "type": "five articles",
     "title": "about React",
-    "date": "",
+    "date": "2023-01-28",
     "tags": "reactjs,reactnative,react,typescript"
   },
   {
