@@ -334,5 +334,33 @@
     "title": "about Docker",
     "date": "",
     "tags": "docker,kubernatis,vm"
+  },
+  {
+    "issue": 49,
+    "type": "five articles",
+    "title": "about Architecture",
+    "date": "",
+    "tags": "architecture"
+  },
+  {
+    "issue": 50,
+    "type": "five articles",
+    "title": "about ReactJS",
+    "date": "",
+    "tags": "reactjs"
+  },
+  {
+    "issue": 51,
+    "type": "five articles",
+    "title": "about Best Practices",
+    "date": "",
+    "tags": "development"
+  },
+  {
+    "issue": 52,
+    "type": "five articles",
+    "title": "about Architecture",
+    "date": "",
+    "tags": "architecture"
   }
 ]
