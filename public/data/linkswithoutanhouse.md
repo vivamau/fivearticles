@@ -26,3 +26,34 @@
 24. [](https://www.vox.com/recode/23580554/generative-ai-chatgpt-openai-stable-diffusion-legal-battles-napster-copyright-peter-kafka-column)
 
 25. [Debunking myths about HTTPS](https://dev.to/jmau111/debunking-myths-about-https-f2k)
+26. [A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding](https://iximiuz.com/en/posts/ssh-tunnels/)
+
+27. [Top 10 must-know Kubernetes design patterns](https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns)
+28. [10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
+29. [](https://blog.rishabkumar.com/how-did-i-become-a-devops-engineer)
+30. [](https://blog.wemakedevs.org/are-you-a-devops-engineer-if-you-arent-writing-code)
+31. [](https://blog.kubesimplify.com/kubernetes-126)
+
+32. [](https://blog.yusadolat.me/10-github-repositories-that-help-you-become-a-better-devops-engineer)
+33. [](https://blog.kubesimplify.com/managing-your-operating-system-with-package-managers)
+34. [](https://blog.wemakedevs.org/a-devops-roadmap)
+35. [](https://lo-victoria.com/series/devops)
+36. [](https://danny.hashnode.dev/aws-devops-engineer-professional-exam-guide)
+
+37. [](https://rapidapi.com/matchilling/api/chuck-norris/)
+38. [](https://rapidapi.com/api-sports/api/api-football/)
+39. [](https://rapidapi.com/wirefreethought/api/geodb-cities/)
+40. [](https://rapidapi.com/apidojo/api/shazam/)
+41. [](https://rapidapi.com/rapidapi/api/movie-database-alternative/)
+
+42. [](https://twitter.com/Prathkum/status/1614887406276341761?s=20&t=t7CMB3u2WW7COxYybKjOHg)
+43. [](https://twitter.com/steventey/status/1611417461194358785?s=20&t=t7CMB3u2WW7COxYybKjOHg)
+44. [](https://twitter.com/adrian_twarog/status/1607405844924370944?s=20&t=t7CMB3u2WW7COxYybKjOHg)
+45. [](https://twitter.com/Infoxicador/status/1606382229764116483?s=20&t=t7CMB3u2WW7COxYybKjOHg)
+
+46. [](https://twitter.com/FRamsberg/status/1606821356330516480?s=20&t=t7CMB3u2WW7COxYybKjOHg)
+47. [](https://twitter.com/goodside/status/1606611869661384706?s=20&t=t7CMB3u2WW7COxYybKjOHg)
+
+48. [](https://vercel.com/blog/migrating-a-large-open-source-react-application-to-next-js-and-vercel)
+
+49. [](https://nathanpeck.com/concurrency-compared-lambda-fargate-app-runner/)
