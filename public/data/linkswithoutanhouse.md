@@ -57,3 +57,10 @@
 48. [](https://vercel.com/blog/migrating-a-large-open-source-react-application-to-next-js-and-vercel)
 
 49. [](https://nathanpeck.com/concurrency-compared-lambda-fargate-app-runner/)
+50. [](https://medium.com/how-to-react/using-env-file-in-react-js-b2714235e77e)
+
+51. [](https://jwt.io/introduction/)
+52. [](https://www.praetorian.com/blog/signing-and-encrypting-with-json-web-tokens/)
+53. [](https://auth0.com/resources/ebooks/jwt-handbook#!)
+54. [](https://www.rfc-editor.org/rfc/rfc7519)
+55. [](https://blog.logrocket.com/jwt-authentication-best-practices/)
