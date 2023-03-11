@@ -64,3 +64,29 @@
 53. [](https://auth0.com/resources/ebooks/jwt-handbook#!)
 54. [](https://www.rfc-editor.org/rfc/rfc7519)
 55. [](https://blog.logrocket.com/jwt-authentication-best-practices/)
+
+56. https://www.youtube.com/@WebDevSimplified
+57. https://www.youtube.com/@ContinuousDelivery
+58. https://www.youtube.com/@DataTalksClub
+59. https://www.youtube.com/@MarcLamberti
+60. https://www.youtube.com/@Developmentthatpays
+61. https://www.youtube.com/@freecodecamp
+62. https://www.youtube.com/@NetflixEngineering
+63. https://www.youtube.com/@OpenJSFoundation
+64. https://www.youtube.com/@programmingwithmosh
+65. https://www.youtube.com/@NetNinja
+66. https://www.youtube.com/@academind
+67. https://www.youtube.com/@ArjanCodes
+68. https://www.youtube.com/@datascientific
+69. https://www.youtube.com/@CodingTech
+70. https://www.youtube.com/@CSDojo
+71. https://www.youtube.com/@DataIsBeautifulOfficial
+72. https://www.youtube.com/@developedbyed
+73. https://www.youtube.com/@Fireship
+74. https://www.youtube.com/@KevinPowell
+75. https://www.youtube.com/@Nerdslesson
+76. https://www.youtube.com/@PaweZadrozniak (F)
+77. https://www.youtube.com/@GalShir (F)
+78. https://www.youtube.com/@RealWorldReact
+
+79. https://www.google.com/search?q=alternatives+to+jwt
