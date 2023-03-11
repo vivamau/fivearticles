@@ -362,5 +362,12 @@
     "title": "about Architecture",
     "date": "",
     "tags": "architecture"
+  },
+  {
+    "issue": 53,
+    "type": "five articles",
+    "title": "about DevOps",
+    "date": "",
+    "tags": "devops"
   }
 ]
