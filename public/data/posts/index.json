@@ -317,9 +317,9 @@
   {
     "issue": 46,
     "type": "five articles",
-    "title": "about Javascript",
-    "date": "",
-    "tags": "javascript"
+    "title": "about Vector Databases",
+    "date": "2023-03-25",
+    "tags": "vectordatabase,database,ai,ml,db"
   },
   {
     "issue": 47,
@@ -369,5 +369,12 @@
     "title": "about DevOps",
     "date": "",
     "tags": "devops"
+  },
+  {
+    "issue": 54,
+    "type": "five articles",
+    "title": "about Javascript",
+    "date": "",
+    "tags": "javascript"
   }
 ]
