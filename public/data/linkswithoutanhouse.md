@@ -92,3 +92,16 @@
 73. https://www.youtube.com/@RealWorldReact
 
 74. https://www.google.com/search?q=alternatives+to+jwt
+75.
+76. https://twitter.com/TomFrankly/status/1648057244284776448
+77. https://twitter.com/milvusio
+78. https://github.com/zilliztech/attu
+79. https://github.com/milvus-io/milvus
+80. https://twitter.com/neondatabase
+81. https://www.pinecone.io/learn/langchain-conversational-memory/
+82. https://www.youtube.com/watch?v=R2FMzcsmQY8
+83. https://www.youtube.com/watch?v=Yhtjd7yGGGA
+84. https://www.youtube.com/watch?v=h0DHDp1FbmQ
+85. https://github.com/mayooear/langchain-supabase-website-chatbot
+86. https://github.com/deepset-ai/haystack
+87. https://neon.tech/blog/building-an-ai-powered-chatbot-using-vercel-openai-and-postgres
