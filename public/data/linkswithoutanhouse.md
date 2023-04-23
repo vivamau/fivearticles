@@ -105,3 +105,4 @@
 85. https://github.com/mayooear/langchain-supabase-website-chatbot
 86. https://github.com/deepset-ai/haystack
 87. https://neon.tech/blog/building-an-ai-powered-chatbot-using-vercel-openai-and-postgres
+https://youtu.be/TLf90ipMzfE
