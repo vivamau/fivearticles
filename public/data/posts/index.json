@@ -319,7 +319,7 @@
     "type": "five articles",
     "title": "about Vector Databases",
     "date": "2023-03-25",
-    "tags": "vectordatabase,database,ai,ml,db"
+    "tags": "vectordb,database,ai,ml,db"
   },
   {
     "issue": 47,
@@ -376,5 +376,12 @@
     "title": "about Javascript",
     "date": "",
     "tags": "javascript"
+  },
+  {
+    "issue": 55,
+    "type": "five articles",
+    "title": "about AI open source projects",
+    "date": "",
+    "tags": "AI,OSS,github,LangChain,Supabase,vectordb"
   }
 ]
